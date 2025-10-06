@@ -1,10 +1,6 @@
 {
   "name": "@swiperfvck/fbail",
-<<<<<<< HEAD
-  "version": "10.1.4",
-=======
   "version": "10.1.5",
->>>>>>> 248e8df (update)
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
